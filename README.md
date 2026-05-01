@@ -23,6 +23,12 @@ Example:
 - GET /api/customers
 - POST /api/jobs
 
+## Jobs
+Jobs represent service work done on vehicles.
+
+Note:
+There may be assumptions in the system about how job status progresses.
+
 ## Developer Notes
 - Controller structure is not fully consistent across modules
 - Error handling is partially implemented
